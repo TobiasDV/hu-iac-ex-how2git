@@ -1,7 +1,7 @@
-package nl.rkuijt;
+package nl.tobiasdv;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import nl.rkuijt.domain.Goose;
+import nl.tobiasdv.domain.Goose;
 
 import java.io.File;
 import java.io.IOException;

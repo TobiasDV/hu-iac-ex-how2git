@@ -1,4 +1,4 @@
-package nl.rkuijt;
+package nl.tobiasdv;
 
 import java.io.IOException;
 
